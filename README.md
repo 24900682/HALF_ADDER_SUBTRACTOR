@@ -1,4 +1,5 @@
-# DATE: 23/03/2025
+# NAME: ASWIN L
+# REG NO: 212224230028
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
